@@ -1,0 +1,22 @@
+textarea{
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 2rem;
+    width: 100%;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper-div {
+    width: 50vw;
+    height: 50vh;
+}
+
+button {
+    cursor: pointer;
+    padding: 10px 30px;
+}

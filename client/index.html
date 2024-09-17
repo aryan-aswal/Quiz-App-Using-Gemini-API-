@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <section class="wrapper">
+        <div class="wrapper-div">
+            <h1>SUBJECTIVE QUIZ APP</h1>
+            <div class="ques-div">
+                <h2 class="question"></h2>
+                <textarea name="answer" id="answer" class="answer"></textarea>
+            </div>
+            <div class="btn-div">
+                <button onclick="submitHandler()">Submit</button>
+                <button onclick="previousHandler()">Previous</button>
+                <button onclick="nextHandler()">Next</button>
+            </div>
+            <!-- Feedback Section -->
+            <div class="feedback-div">
+                <h3>Feedback</h3>
+                <p><strong>Rating:</strong> <span id="rating"></span></p>
+                <p><strong>Review:</strong> <span id="review"></span></p>
+            </div>
+        </div>
+    </section>
+    <script src="index.js"></script>
+</body>
+
+</html>

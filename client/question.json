@@ -1,0 +1,42 @@
+[
+    {
+        "page": 1,
+        "question": "Ques 1) Explain the importance of inheritance in Java and how it promotes code reusability."
+    },
+    {
+        "page": 2,
+        "question": "Ques 2) Describe the process of DNA replication in the context of molecular biology."
+    },
+    {
+        "page": 3,
+        "question": "Ques 3) How does the concept of polymorphism enhance the flexibility of a Java program?"
+    },
+    {
+        "page": 4,
+        "question": "Ques 4) Discuss the role of enzymes in catalyzing biochemical reactions."
+    },
+    {
+        "page": 5,
+        "question": "Ques 5) What are the main differences between checked and unchecked exceptions in Java?"
+    },
+    {
+        "page": 6,
+        "question": "Ques 6) Explain Newton’s three laws of motion with real-life examples."
+    },
+    {
+        "page": 7,
+        "question": "Ques 7) How does Java handle memory management with respect to garbage collection?"
+    },
+    {
+        "page": 8,
+        "question": "Ques 8) Describe the concept of osmosis and its biological significance."
+    },
+    {
+        "page": 9,
+        "question": "Ques 9) What is the purpose of interfaces in Java, and how do they differ from abstract classes?"
+    },
+    {
+        "page": 10,
+        "question": "Ques 10) Explain the law of conservation of energy and provide examples of its application."
+    }
+]
