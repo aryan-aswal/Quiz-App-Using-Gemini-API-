@@ -47,7 +47,7 @@ const submitHandler = async () => {
     try {
         let data;
         do {
-            let response = await fetch('http://localhost:3000/api/v1/submit-answer', {
+            let response = await fetch('https://quiz-app-using-gemini-api.onrender.com/api/v1/submit-answer', {
                 method: "POST",
                 body: JSON.stringify(reqObject),
                 headers: {
